@@ -1,8 +1,3 @@
-<!-- Social Metahead -->
-<meta name="facebook-domain-verification" content="ru32cqnlswopfzlqeemvrvplm0v1oq" />
-<meta name="facebook:card" content="summary_large_image" />
-<!-- END Social Metahead-->
-
 <!-- Website Protect -->
       <script id="wpcp_disable_selection" type="text/javascript">
 //<![CDATA[
